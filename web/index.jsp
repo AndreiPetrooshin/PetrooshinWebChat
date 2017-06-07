@@ -20,6 +20,7 @@
 
     <div align="center">
        <textarea cols="50" rows="20">
+
       <c:choose>
         <c:when test="${requestScope.toChat eq null}"/>
 
